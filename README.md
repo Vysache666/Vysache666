@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vysache666
-- 👀 I’m interested in ... currently in software developer and backend
-- 🌱 I’m currently learning ... Go-lang (on progress in beginner level)
+- 👋 Hi, I’m @Vysache666 (Sultan Balya Haidar)
+- 👀 I’m interested in ... currently in software developer
+- 🌱 I’m currently learning ... SQL for Data Analyst (on progress in beginner level)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on my ig: sltnbly_4
 - 😄 Pronouns: He/Him
